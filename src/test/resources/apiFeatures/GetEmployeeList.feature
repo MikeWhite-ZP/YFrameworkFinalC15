@@ -17,3 +17,4 @@ Then User retrieve and print unique Gorest user names
 Scenario: Get only Male users
 Given User gets Employee List from Gorest API
 Then Find the first names whose gender is male
+  #then find the first names whole gender is femalw
